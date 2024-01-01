@@ -1,0 +1,1 @@
+<img src="https://cdn.discordapp.com/attachments/1005097870891962400/1152136310111358986/Logo_PLN.svg.png" alt="Logo" class="h-10" >
